@@ -1,0 +1,12 @@
+#img1{
+    width: 100px;
+   border-radius: 50px;
+display: flex;
+align-self: center;
+}
+#btn1{
+    display: flex;
+    align-self: center;
+    
+
+}

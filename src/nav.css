@@ -1,0 +1,56 @@
+.main{
+  background: linear-gradient(to left ,rgb(237, 60, 163),red);
+}
+
+.pos1{
+  position: absolute;
+  transform: translate(180px);
+  color: white;
+}
+.cont{
+  position: relative;
+  
+}
+.pos{
+  opacity: 0.5;
+;  
+}
+@media screen and (max-width: 991px) {
+   .first-logo{    
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+  .main {
+    height:150px;
+  }
+  .dream-tec {
+    position: absolute;
+    top: 13px;
+    left: 81px;
+  }
+  .cont {
+    position: absolute;
+    left: 41px;
+    top: 48px;
+  }
+  .nav-list1 {
+    position: absolute;
+    top: 87px;
+    left: 50px;
+}
+.nav-list2{
+   position: absolute;
+  top: 87px;
+  left: 205px;;}
+.nav-list3{ 
+  position: absolute;
+  top: 111px;
+  left: 204px;
+}
+.nav-list4{ 
+  position: absolute;
+  top: 111px;
+  left: 50px;
+  }
+}
